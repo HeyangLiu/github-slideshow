@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our student slide!"
 ---
-this a pull
+this my slide
 Use the left arrow to go back!
